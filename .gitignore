@@ -1,0 +1,21 @@
+# Data (too large for git)
+data/raw/
+data/processed/
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+*.egg-info/
+
+# Models (use Git LFS or cloud storage instead)
+models/weights/*.pt
+models/checkpoints/
+
+# Node
+node_modules/
+frontend/build/
+
+# OS
+.DS_Store

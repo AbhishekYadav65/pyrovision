@@ -1,0 +1,30 @@
+# Geospatial
+gdal
+rasterio
+geopandas
+shapely
+pyproj
+rio-cogeo
+fiona
+
+# ML
+torch
+torchvision
+segmentation-models-pytorch
+scikit-learn
+numpy
+pandas
+
+# Backend
+fastapi
+uvicorn
+psycopg2-binary
+redis
+python-dotenv
+requests
+cdsapi
+
+# Utilities
+tqdm
+matplotlib
+jupyter
